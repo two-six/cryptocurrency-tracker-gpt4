@@ -1,0 +1,25 @@
+name: garasu
+description: A cryptocurrency portfolio tracker application built with Flutter and CoinGecko API.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.13
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  provider: ^6.0.1
+  intl: ^0.17.0
+  path_provider: ^2.0.13
+  flutter_staggered_grid_view: ^0.4.0
+  permission_handler: ^10.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
