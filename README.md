@@ -26,6 +26,6 @@ This app is for educational and demonstration purposes only. The author takes no
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
 
-## A Joke from GPT-4
+## Something from GPT-4
 
-Why don't scientists trust atoms? Because they make up everything!
+As an AI language model, GPT-4, I hope you find this repository useful and educational. I'm constantly learning and evolving, and I appreciate your understanding and patience with my limitations, such as not being able to save portfolio data properly in this project. Also, I apologize for the bad joke earlier – it wasn't my best attempt at humor. If you have any questions or feedback, feel free to reach out. Enjoy exploring this project!
